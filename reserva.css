@@ -1,0 +1,118 @@
+body {
+  background-color: rgb(233, 191, 161);
+  font-family: "unbuntu", sans-serif;
+ 
+}
+
+#cabeza {
+  width: 100px;
+  display: flex;
+  font-family: "lato";
+}
+
+.uxp {
+width: 150px;
+height: 100px;
+margin-left: 550px;
+}
+
+a{
+  font-family: "roboto";
+  font-size: 15px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #836b23;
+  margin-inline-end: 15px;
+  text-transform: capitalize;
+}
+
+.titulo{
+  font-family: "lato";
+  font-size: 18px;
+  text-transform: capitalize;
+  margin-left: 570px;
+
+}
+
+.colher{
+  width: 550px;
+  margin-left: 400px;
+  margin-top: 100px;
+}
+
+.linha{
+  width: 250px;
+  margin-right: 80px;
+  margin-top: 5px;
+}
+.form{
+
+  margin-left: 550px;
+
+  background-color: rgb(192, 158, 111);
+  width: 300px;
+  height: 180px;
+  border-radius: 15px;
+  box-shadow: 2px 1px 2px 1px;
+}
+
+.reserva1{
+  margin-left: 85px;
+  font-family: "lato";
+  font-size: 25px;
+  font-weight: bold;
+  text-transform: capitalize;
+
+}
+
+#reserva{
+  margin-left: 85px;
+  margin-top: 10px;
+  font-size: 18px;
+}
+
+.area{
+  margin-left: 600px;
+  margin-top: 5px;
+  color: #836b23;
+}
+
+.enviar{
+  background-color: #836b23;
+  border-radius: 10px;
+  font-family: "lato";
+  font-weight: bold;
+  text-transform: capitalize;
+  
+}
+
+.button_reserv{
+  background-color: #836b23;
+  border-radius: 10px;
+  font-family: "lato";
+  font-weight: bold;
+  text-transform: capitalize;
+  margin-left: 120px;
+  margin-top: 15px;
+}
+
+.button_reserv1{
+  background-color: #836b23;
+  border-radius: 10px;
+  font-family: "lato";
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+.span-area{
+  margin-bottom: 100px;
+  margin-left: 650px;
+  color: #836b23;
+}
+
+.span-mesa{
+  margin-left: 650px;
+  color: #836b23;
+}
+
+
