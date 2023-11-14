@@ -1,4 +1,4 @@
-<h1>Projeto de Reserva de Mesa em Restaurante</h1>h1>
+<h1>Reserva de Mesa em Restaurante</h1>h1>
 Este projeto é uma aplicação web desenvolvida com HTML, CSS e JavaScript que permite aos usuários realizar reservas de mesas em um restaurante. A aplicação oferece a funcionalidade de selecionar a quantidade de pessoas e escolher se desejam estar na área de fumantes.
 
 <h2>Funcionalidades</h2>h2>
