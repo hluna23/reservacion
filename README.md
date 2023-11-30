@@ -1,4 +1,4 @@
-<h1>Reserva de Mesa em Restaurante</h1>
+<div><img src="https://github.com/hluna23/reservacion/assets/114502390/ffcc47fa-c5f9-445b-9160-b7e5a976d4a8.png"/></div>
 Este projeto é uma aplicação web desenvolvida com HTML, CSS e JavaScript que permite aos usuários realizar reservas de mesas em um restaurante. A aplicação oferece a funcionalidade de selecionar a quantidade de pessoas e escolher se desejam estar na área de fumantes.
 
 <h2>Funcionalidades</h2>
@@ -10,6 +10,7 @@ Escolha da Área de Fumantes: É fornecida a opção de selecionar se desejam um
 Clone o repositório para a sua máquina local usando o seguinte comando:
 
 git clone https://github.com/hluna23/reservacion.git
+
 Abra o arquivo index.html em seu navegador da web para iniciar a aplicação.
 
 Preencha o formulário com a quantidade de pessoas para a reserva e selecione sua preferência sobre a área de fumantes.
